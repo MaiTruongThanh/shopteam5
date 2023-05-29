@@ -269,7 +269,7 @@
                   <ul class="nav navbar-nav">
                     <li class="active dropdown">
                       <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                        Trang chính
+                        Home
                       </a>
 <!--                       <div class="dropdown-menu"> -->
 <!--                         <ul class="mega-menu-links"> -->
@@ -1382,13 +1382,13 @@
                   </strong>
                 </h4>
                 <p>
-                  Toà nhà FPT Polytechnic, đường số 22, phường Thường Thạnh, quận Cái Răng, TP Cần Thơ.
+                  No. 08, Nguyen Trai, Hanoi , Vietnam
                 </p>
                 <p>
-                 Gọi: 098 388 1100
+                  Call Us : (084) 1900 1008
                 </p>
                 <p>
-                  Email : caodang@fpt.edu.vn
+                  Email : michael@leebros.us
                 </p>
               </div>
               <div class="col-md-3 col-sm-6">
@@ -1432,8 +1432,8 @@
                   Lorem ipsum dolor ipsum dolor.
                 </p>
                 <form class="newsletter">
-                  <input type="text" name="" placeholder="Nhập email của bạn....">
-                  <input type="submit" value="Gửi" class="button">
+                  <input type="text" name="" placeholder="Type your email....">
+                  <input type="submit" value="SignUp" class="button">
                 </form>
               </div>
             </div>
@@ -1444,7 +1444,7 @@
             <div class="row">
               <div class="col-md-6">
                 <p>
-                  Copyright © 2023. Designed by ShopTeam5. All rights reseved 
+                  Copyright © 2012. Designed by 
                   <a href="#">
                     Michael Lee
                   </a>
