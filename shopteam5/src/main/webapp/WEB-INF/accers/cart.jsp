@@ -448,9 +448,9 @@
         </div>
         <div class="page-index">
           <div class="container">
-<!--             <p> -->
-<!--               Giỏ hàng -->
-<!--             </p> -->
+            <p>
+              Home - Shopping Cart
+            </p>
           </div>
         </div>
       </div>
@@ -461,7 +461,7 @@
           <div class="row">
             <div class="col-md-12">
               <h3 class="title">
-                Giỏ hàng
+                Shopping Cart
               </h3>
               <div class="clearfix">
               </div>
@@ -469,22 +469,22 @@
                 <thead>
                   <tr>
                     <th>
-                      Hình ảnh
+                      Image
                     </th>
                     <th>
-                      Thông tin sản phẩm
+                      Dtails
                     </th>
                     <th>
-                      Giá
+                      Price
                     </th>
                     <th>
-                     Số lượng
+                      Quantity
                     </th>
                     <th>
-                      Thành tiền
+                      Price
                     </th>
                     <th>
-                      Xóa
+                      Delete
                     </th>
                   </tr>
                 </thead>
@@ -498,60 +498,59 @@
                         <div class="productname">
                           Lincoln Corner Unit Products
                         </div>
-<!--                         <p> -->
-<!--                           <img alt="" src="images/star.png"> -->
-<!--                           <a class="review_num" href="#"> -->
-<!--                             02 Review(s) -->
-<!--                           </a> -->
-<!--                         </p> -->
+                        <p>
+                          <img alt="" src="images/star.png">
+                          <a class="review_num" href="#">
+                            02 Review(s)
+                          </a>
+                        </p>
                         <div class="color-choser">
                           <span class="text">
-                            Màu sắc : 
+                            Product Color : 
                           </span>
                           <ul>
                             <li>
                               <a class="black-bg " href="#">
-                                Đen
+                                black
                               </a>
                             </li>
                             <li>
                               <a class="red-bg" href="#">
-                                Đỏ
+                                light red
                               </a>
                             </li>
                           </ul>
                         </div>
                         <p>
-                          Mã sản phẩm : 
+                          Product Code : 
                           <strong class="pcode">
-                            SP01
+                            Dress 120
                           </strong>
                         </p>
                       </div>
                     </td>
                     <td>
                       <h5>
-                        200.000VNĐ
+                        $200.00
                       </h5>
                     </td>
                     <td>
-                    <input type="number" style="width: 100%">
-<!--                       <select name=""> -->
-<!--                         <option selected value="1"> -->
-<!--                           1 -->
-<!--                         </option> -->
-<!--                         <option value="1"> -->
-<!--                           2 -->
-<!--                         </option> -->
-<!--                         <option value="1"> -->
-<!--                           3 -->
-<!--                         </option> -->
-<!--                       </select> -->
+                      <select name="">
+                        <option selected value="1">
+                          1
+                        </option>
+                        <option value="1">
+                          2
+                        </option>
+                        <option value="1">
+                          3
+                        </option>
+                      </select>
                     </td>
                     <td>
                       <h5>
                         <strong class="red">
-                          200.000VNĐ
+                          $200.00
                         </strong>
                       </h5>
                     </td>
@@ -561,8 +560,6 @@
                       </a>
                     </td>
                   </tr>
-                  
-                  
                   <tr>
                     <td>
                       <img src="images/products/small/products-02.png" alt="">
@@ -572,60 +569,59 @@
                         <div class="productname">
                           Lincoln Corner Unit Products
                         </div>
-<!--                         <p> -->
-<!--                           <img alt="" src="images/star.png"> -->
-<!--                           <a class="review_num" href="#"> -->
-<!--                             02 Review(s) -->
-<!--                           </a> -->
-<!--                         </p> -->
+                        <p>
+                          <img alt="" src="images/star.png">
+                          <a class="review_num" href="#">
+                            02 Review(s)
+                          </a>
+                        </p>
                         <div class="color-choser">
                           <span class="text">
-                            Màu sắc : 
+                            Product Color : 
                           </span>
                           <ul>
                             <li>
-                              <a class="black-bg " href="#">
-                                Đen
+                              <a class="gray-bg" href="#">
+                                pink
                               </a>
                             </li>
                             <li>
-                              <a class="red-bg" href="#">
-                                Đỏ
+                              <a class="black-bg " href="#">
+                                black
                               </a>
                             </li>
                           </ul>
                         </div>
                         <p>
-                          Mã sản phẩm : 
+                          Product Code : 
                           <strong class="pcode">
-                            SP01
+                            Dress 132
                           </strong>
                         </p>
                       </div>
                     </td>
                     <td>
                       <h5>
-                        200.000VNĐ
+                        $200.00
                       </h5>
                     </td>
                     <td>
-                    <input type="number" style="width: 100%">
-<!--                       <select name=""> -->
-<!--                         <option selected value="1"> -->
-<!--                           1 -->
-<!--                         </option> -->
-<!--                         <option value="1"> -->
-<!--                           2 -->
-<!--                         </option> -->
-<!--                         <option value="1"> -->
-<!--                           3 -->
-<!--                         </option> -->
-<!--                       </select> -->
+                      <select name="">
+                        <option selected value="1">
+                          1
+                        </option>
+                        <option value="2">
+                          2
+                        </option>
+                        <option value="3">
+                          3
+                        </option>
+                      </select>
                     </td>
                     <td>
                       <h5>
                         <strong class="red">
-                          200.000VNĐ
+                          $200.00
                         </strong>
                       </h5>
                     </td>
@@ -635,7 +631,6 @@
                       </a>
                     </td>
                   </tr>
-                  
                   <tr>
                     <td>
                       <img src="images/products/small/products-05.png" alt="">
@@ -645,60 +640,69 @@
                         <div class="productname">
                           Lincoln Corner Unit Products
                         </div>
-<!--                         <p> -->
-<!--                           <img alt="" src="images/star.png"> -->
-<!--                           <a class="review_num" href="#"> -->
-<!--                             02 Review(s) -->
-<!--                           </a> -->
-<!--                         </p> -->
+                        <p>
+                          <img alt="" src="images/star.png">
+                          <a class="review_num" href="#">
+                            02 Review(s)
+                          </a>
+                        </p>
                         <div class="color-choser">
                           <span class="text">
-                            Màu sắc : 
+                            Product Color : 
                           </span>
                           <ul>
                             <li>
-                              <a class="black-bg " href="#">
-                                Đen
+                              <a class="red-bg" href="#">
+                                light red
                               </a>
                             </li>
                             <li>
-                              <a class="red-bg" href="#">
-                                Đỏ
+                              <a class=" yellow-bg" href="#">
+                                yellow"
+                              </a>
+                            </li>
+                            <li>
+                              <a class="black-bg " href="#">
+                                black
+                              </a>
+                            </li>
+                            <li>
+                              <a class="pink-bg" href="#">
+                                pink
                               </a>
                             </li>
                           </ul>
                         </div>
                         <p>
-                          Mã sản phẩm : 
+                          Product Code : 
                           <strong class="pcode">
-                            SP01
+                            Dress 050
                           </strong>
                         </p>
                       </div>
                     </td>
                     <td>
                       <h5>
-                        200.000VNĐ
+                        $200.00
                       </h5>
                     </td>
                     <td>
-                    <input type="number" style="width: 100%">
-<!--                       <select name=""> -->
-<!--                         <option selected value="1"> -->
-<!--                           1 -->
-<!--                         </option> -->
-<!--                         <option value="1"> -->
-<!--                           2 -->
-<!--                         </option> -->
-<!--                         <option value="1"> -->
-<!--                           3 -->
-<!--                         </option> -->
-<!--                       </select> -->
+                      <select name="">
+                        <option selected value="1">
+                          1
+                        </option>
+                        <option value="2">
+                          2
+                        </option>
+                        <option value="3">
+                          3
+                        </option>
+                      </select>
                     </td>
                     <td>
                       <h5>
                         <strong class="red">
-                          200.000VNĐ
+                          $200.00
                         </strong>
                       </h5>
                     </td>
@@ -713,10 +717,10 @@
                   <tr>
                     <td colspan="6">
                       <button class="pull-left">
-                        Tiếp tục mua sắm
+                        Continue Shopping
                       </button>
                       <button class=" pull-right">
-                        Cập nhật giỏ hàng
+                        Update Shopping Cart
                       </button>
                     </td>
                   </tr>
@@ -728,82 +732,529 @@
                 <div class="col-md-4 col-sm-6">
                   <div class="shippingbox">
                     <h5>
-                      Địa chỉ vận chuyển
+                      Estimate Shipping And Tax
                     </h5>
                     <form>
                       <label>
-                        Tỉnh/ Thành phố *
+                        Select Country *
                       </label>
                       <select class="">
-                       
-                        <option value="hsoctrang">
-                          Sóc Trăng
+                        <option value="AL">
+                          Alabama
+                        </option>
+                        <option value="AK">
+                          Alaska
+                        </option>
+                        <option value="AZ">
+                          Arizona
+                        </option>
+                        <option value="AR">
+                          Arkansas
+                        </option>
+                        <option value="CA">
+                          California
+                        </option>
+                        <option value="CO">
+                          Colorado
+                        </option>
+                        <option value="CT">
+                          Connecticut
+                        </option>
+                        <option value="DE">
+                          Delaware
+                        </option>
+                        <option value="DC">
+                          District Of Columbia
+                        </option>
+                        <option value="FL">
+                          Florida
+                        </option>
+                        <option value="GA">
+                          Georgia
+                        </option>
+                        <option value="HI">
+                          Hawaii
+                        </option>
+                        <option value="ID">
+                          Idaho
+                        </option>
+                        <option selected="" value="IL">
+                          Illinois
+                        </option>
+                        <option value="IN">
+                          Indiana
+                        </option>
+                        <option value="IA">
+                          Iowa
+                        </option>
+                        <option value="KS">
+                          Kansas
+                        </option>
+                        <option value="KY">
+                          Kentucky
+                        </option>
+                        <option value="LA">
+                          Louisiana
+                        </option>
+                        <option value="ME">
+                          Maine
+                        </option>
+                        <option value="MD">
+                          Maryland
+                        </option>
+                        <option value="MA">
+                          Massachusetts
+                        </option>
+                        <option value="MI">
+                          Michigan
+                        </option>
+                        <option value="MN">
+                          Minnesota
+                        </option>
+                        <option value="MS">
+                          Mississippi
+                        </option>
+                        <option value="MO">
+                          Missouri
+                        </option>
+                        <option value="MT">
+                          Montana
+                        </option>
+                        <option value="NE">
+                          Nebraska
+                        </option>
+                        <option value="NV">
+                          Nevada
+                        </option>
+                        <option value="NH">
+                          New Hampshire
+                        </option>
+                        <option value="NJ">
+                          New Jersey
+                        </option>
+                        <option value="NM">
+                          New Mexico
+                        </option>
+                        <option value="NY">
+                          New York
+                        </option>
+                        <option value="NC">
+                          North Carolina
+                        </option>
+                        <option value="ND">
+                          North Dakota
+                        </option>
+                        <option value="OH">
+                          Ohio
+                        </option>
+                        <option value="OK">
+                          Oklahoma
+                        </option>
+                        <option value="OR">
+                          Oregon
+                        </option>
+                        <option value="PA">
+                          Pennsylvania
+                        </option>
+                        <option value="RI">
+                          Rhode Island
+                        </option>
+                        <option value="SC">
+                          South Carolina
+                        </option>
+                        <option value="SD">
+                          South Dakota
+                        </option>
+                        <option value="TN">
+                          Tennessee
+                        </option>
+                        <option value="TX">
+                          Texas
+                        </option>
+                        <option value="UT">
+                          Utah
+                        </option>
+                        <option value="VT">
+                          Vermont
+                        </option>
+                        <option value="VA">
+                          Virginia
+                        </option>
+                        <option value="WA">
+                          Washington
+                        </option>
+                        <option value="WV">
+                          West Virginia
+                        </option>
+                        <option value="WI">
+                          Wisconsin
+                        </option>
+                        <option value="WY">
+                          Wyoming
                         </option>
                       </select>
                       <label>
-                        Quận / Huyện *
+                        State / Province *
                       </label>
                       <select class="">
-                        
-                        <option value="hlongphu">
-                          Long Phú
+                        <option value="AL">
+                          Alabama
+                        </option>
+                        <option value="AK">
+                          Alaska
+                        </option>
+                        <option value="AZ">
+                          Arizona
+                        </option>
+                        <option value="AR">
+                          Arkansas
+                        </option>
+                        <option value="CA">
+                          California
+                        </option>
+                        <option value="CO">
+                          Colorado
+                        </option>
+                        <option value="CT">
+                          Connecticut
+                        </option>
+                        <option value="DE">
+                          Delaware
+                        </option>
+                        <option value="DC">
+                          District Of Columbia
+                        </option>
+                        <option value="FL">
+                          Florida
+                        </option>
+                        <option value="GA">
+                          Georgia
+                        </option>
+                        <option value="HI">
+                          Hawaii
+                        </option>
+                        <option value="ID">
+                          Idaho
+                        </option>
+                        <option selected="" value="IL">
+                          Illinois
+                        </option>
+                        <option value="IN">
+                          Indiana
+                        </option>
+                        <option value="IA">
+                          Iowa
+                        </option>
+                        <option value="KS">
+                          Kansas
+                        </option>
+                        <option value="KY">
+                          Kentucky
+                        </option>
+                        <option value="LA">
+                          Louisiana
+                        </option>
+                        <option value="ME">
+                          Maine
+                        </option>
+                        <option value="MD">
+                          Maryland
+                        </option>
+                        <option value="MA">
+                          Massachusetts
+                        </option>
+                        <option value="MI">
+                          Michigan
+                        </option>
+                        <option value="MN">
+                          Minnesota
+                        </option>
+                        <option value="MS">
+                          Mississippi
+                        </option>
+                        <option value="MO">
+                          Missouri
+                        </option>
+                        <option value="MT">
+                          Montana
+                        </option>
+                        <option value="NE">
+                          Nebraska
+                        </option>
+                        <option value="NV">
+                          Nevada
+                        </option>
+                        <option value="NH">
+                          New Hampshire
+                        </option>
+                        <option value="NJ">
+                          New Jersey
+                        </option>
+                        <option value="NM">
+                          New Mexico
+                        </option>
+                        <option value="NY">
+                          New York
+                        </option>
+                        <option value="NC">
+                          North Carolina
+                        </option>
+                        <option value="ND">
+                          North Dakota
+                        </option>
+                        <option value="OH">
+                          Ohio
+                        </option>
+                        <option value="OK">
+                          Oklahoma
+                        </option>
+                        <option value="OR">
+                          Oregon
+                        </option>
+                        <option value="PA">
+                          Pennsylvania
+                        </option>
+                        <option value="RI">
+                          Rhode Island
+                        </option>
+                        <option value="SC">
+                          South Carolina
+                        </option>
+                        <option value="SD">
+                          South Dakota
+                        </option>
+                        <option value="TN">
+                          Tennessee
+                        </option>
+                        <option value="TX">
+                          Texas
+                        </option>
+                        <option value="UT">
+                          Utah
+                        </option>
+                        <option value="VT">
+                          Vermont
+                        </option>
+                        <option value="VA">
+                          Virginia
+                        </option>
+                        <option value="WA">
+                          Washington
+                        </option>
+                        <option value="WV">
+                          West Virginia
+                        </option>
+                        <option value="WI">
+                          Wisconsin
+                        </option>
+                        <option value="WY">
+                          Wyoming
                         </option>
                       </select>
                       <label>
-                        Xã / Thị trấn *
+                        Zip / Post Code *
                       </label>
                       <select class="">
-                    
-                        <option value="xhauthanh">
-                          Hậu Thạnh
+                        <option value="AL">
+                          Alabama
+                        </option>
+                        <option value="AK">
+                          Alaska
+                        </option>
+                        <option value="AZ">
+                          Arizona
+                        </option>
+                        <option value="AR">
+                          Arkansas
+                        </option>
+                        <option value="CA">
+                          California
+                        </option>
+                        <option value="CO">
+                          Colorado
+                        </option>
+                        <option value="CT">
+                          Connecticut
+                        </option>
+                        <option value="DE">
+                          Delaware
+                        </option>
+                        <option value="DC">
+                          District Of Columbia
+                        </option>
+                        <option value="FL">
+                          Florida
+                        </option>
+                        <option value="GA">
+                          Georgia
+                        </option>
+                        <option value="HI">
+                          Hawaii
+                        </option>
+                        <option value="ID">
+                          Idaho
+                        </option>
+                        <option selected="" value="IL">
+                          Illinois
+                        </option>
+                        <option value="IN">
+                          Indiana
+                        </option>
+                        <option value="IA">
+                          Iowa
+                        </option>
+                        <option value="KS">
+                          Kansas
+                        </option>
+                        <option value="KY">
+                          Kentucky
+                        </option>
+                        <option value="LA">
+                          Louisiana
+                        </option>
+                        <option value="ME">
+                          Maine
+                        </option>
+                        <option value="MD">
+                          Maryland
+                        </option>
+                        <option value="MA">
+                          Massachusetts
+                        </option>
+                        <option value="MI">
+                          Michigan
+                        </option>
+                        <option value="MN">
+                          Minnesota
+                        </option>
+                        <option value="MS">
+                          Mississippi
+                        </option>
+                        <option value="MO">
+                          Missouri
+                        </option>
+                        <option value="MT">
+                          Montana
+                        </option>
+                        <option value="NE">
+                          Nebraska
+                        </option>
+                        <option value="NV">
+                          Nevada
+                        </option>
+                        <option value="NH">
+                          New Hampshire
+                        </option>
+                        <option value="NJ">
+                          New Jersey
+                        </option>
+                        <option value="NM">
+                          New Mexico
+                        </option>
+                        <option value="NY">
+                          New York
+                        </option>
+                        <option value="NC">
+                          North Carolina
+                        </option>
+                        <option value="ND">
+                          North Dakota
+                        </option>
+                        <option value="OH">
+                          Ohio
+                        </option>
+                        <option value="OK">
+                          Oklahoma
+                        </option>
+                        <option value="OR">
+                          Oregon
+                        </option>
+                        <option value="PA">
+                          Pennsylvania
+                        </option>
+                        <option value="RI">
+                          Rhode Island
+                        </option>
+                        <option value="SC">
+                          South Carolina
+                        </option>
+                        <option value="SD">
+                          South Dakota
+                        </option>
+                        <option value="TN">
+                          Tennessee
+                        </option>
+                        <option value="TX">
+                          Texas
+                        </option>
+                        <option value="UT">
+                          Utah
+                        </option>
+                        <option value="VT">
+                          Vermont
+                        </option>
+                        <option value="VA">
+                          Virginia
+                        </option>
+                        <option value="WA">
+                          Washington
+                        </option>
+                        <option value="WV">
+                          West Virginia
+                        </option>
+                        <option value="WI">
+                          Wisconsin
+                        </option>
+                        <option value="WY">
+                          Wyoming
                         </option>
                       </select>
                       <div class="clearfix">
                       </div>
-<!--                       <button> -->
-<!--                         Xác nhận địa chỉ -->
-<!--                       </button> -->
+                      <button>
+                        Get A Qoute
+                      </button>
                     </form>
                   </div>
                 </div>
-<!--                 <div class="col-md-4 col-sm-6"> -->
-<!--                   <div class="shippingbox"> -->
-<!--                     <h5> -->
-<!--                       Discount Codes -->
-<!--                     </h5> -->
-<!--                     <form> -->
-<!--                       <label> -->
-<!--                         Enter your coupon code if you have one -->
-<!--                       </label> -->
-<!--                       <input type="text" name=""> -->
-<!--                       <div class="clearfix"> -->
-<!--                       </div> -->
-<!--                       <button> -->
-<!--                         Get A Qoute -->
-<!--                       </button> -->
-<!--                     </form> -->
-<!--                   </div> -->
-<!--                 </div> -->
                 <div class="col-md-4 col-sm-6">
                   <div class="shippingbox">
-<!--                     <div class="subtotal"> -->
-<!--                       <h5> -->
-<!--                         Sub Total -->
-<!--                       </h5> -->
-<!--                       <span> -->
-<!--                         $1.000.00 -->
-<!--                       </span> -->
-<!--                     </div> -->
-                    <div class="grandtotal">
+                    <h5>
+                      Discount Codes
+                    </h5>
+                    <form>
+                      <label>
+                        Enter your coupon code if you have one
+                      </label>
+                      <input type="text" name="">
+                      <div class="clearfix">
+                      </div>
+                      <button>
+                        Get A Qoute
+                      </button>
+                    </form>
+                  </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                  <div class="shippingbox">
+                    <div class="subtotal">
                       <h5>
-                        Tổng tiền:
+                        Sub Total
                       </h5>
                       <span>
-                        1.000.000 VNĐ
+                        $1.000.00
+                      </span>
+                    </div>
+                    <div class="grandtotal">
+                      <h5>
+                        GRAND TOTAL 
+                      </h5>
+                      <span>
+                        $1.000.00
                       </span>
                     </div>
                     <button>
-                      Mua hàng
+                      Process To Checkout
                     </button>
                   </div>
                 </div>
@@ -814,7 +1265,10 @@
           </div>
           <div class="our-brand">
             <h3 class="title">
-              <strong>Nhãn </strong> Hàng
+              <strong>
+                Our 
+              </strong>
+              Brands
             </h3>
             <div class="control">
               <a id="prev_brand" class="prev" href="#">
@@ -922,7 +1376,10 @@
               </div>
               <div class="col-md-3 col-sm-6">
                 <h4 class="title">
-                  Thông tin <strong>liên lạc</strong>
+                  Contact 
+                  <strong>
+                    Info
+                  </strong>
                 </h4>
                 <p>
                   Toà nhà FPT Polytechnic, đường số 22, phường Thường Thạnh, quận Cái Răng, TP Cần Thơ.
@@ -936,7 +1393,10 @@
               </div>
               <div class="col-md-3 col-sm-6">
                 <h4 class="title">
-                  Hỗ trợ <strong> Khách hàng</strong>
+                  Customer
+                  <strong>
+                    Support
+                  </strong>
                 </h4>
                 <ul class="support">
                   <li>
@@ -963,7 +1423,10 @@
               </div>
               <div class="col-md-3">
                 <h4 class="title">
-                  Liên hệ <strong>Chúng tôi </strong>
+                  Get Our 
+                  <strong>
+                    Newsletter 
+                  </strong>
                 </h4>
                 <p>
                   Lorem ipsum dolor ipsum dolor.
@@ -981,8 +1444,11 @@
             <div class="row">
               <div class="col-md-6">
                 <p>
-                  Copyright © 2023. Designed by <a href="#">ShopTeam5</a>. All
-								rights reseved
+                  Copyright © 2023. Designed by ShopTeam5. All rights reseved 
+                  <a href="#">
+                    Michael Lee
+                  </a>
+                  . All rights reseved
                 </p>
               </div>
               <div class="col-md-6">
